@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>gittest</title>
+<title>Insert title here</title>
 </head>
 <body>
-깃테스트13.0
+
 </body>
 </html>
